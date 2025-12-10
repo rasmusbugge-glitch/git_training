@@ -1,3 +1,2 @@
-# world-hello
-This is my secound repository.
-I am looking forward to learning more. 
+# World hello
+this is the version from main branch
