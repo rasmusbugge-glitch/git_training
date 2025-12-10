@@ -1,3 +1,3 @@
-# Hello-world
-This is my first repository.
+# world-hello
+This is my secound repository.
 I am looking forward to learning more. 
