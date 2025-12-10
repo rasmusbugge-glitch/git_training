@@ -1,3 +1,3 @@
 library(DBI)
-library(tidyverse) # often used in data science XXX
+library(tidyverse) # og vi bruger ofte denne
 library(Rpostgres) hej
