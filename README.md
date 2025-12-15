@@ -1,1 +1,2 @@
-halla ja halla
+Load relevant packages
+library (pryr)
